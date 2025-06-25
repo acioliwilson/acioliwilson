@@ -36,9 +36,9 @@
 ### 🚀 Featured Projects
 
 <!-- Replace these with actual links and short descriptions of your projects -->
-- [**Project 1**](#) – Simple, useful, and built for monetization. (Short description)
-- [**Project 2**](#) – Another practical tool with real-world impact. (Short description)
-- [**Project 3**](#) – E-commerce solution to streamline digital businesses. (Short description)
+- [**FoodieFlex**](https://food-delivery-tpl.vercel.app/) – Plataforma moderna de delivery de alimentos com design responsivo e usabilidade otimizada.
+- [**Listou**](https://listou-theta.vercel.app/) – Ferramenta prática para organização de tarefas e listas com foco na produtividade.
+- [**Secure Pass Factory**](https://www.visuall.store/) – Gerador de senhas fortes para maior segurança em ambientes digitais.
 
 > Check out more in my [repositories](https://github.com/acioliwilson?tab=repositories)!
 
